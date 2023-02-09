@@ -8,7 +8,7 @@
 
 
 
-- 🔭 Atualmente estou estudando **CSS FlexBox**
+- 🔭 Atualmente estou estudando **Responsividade em CSS**
 
 - 🌱 Desenvolvendo projetos em  **HTML e CSS**
 
