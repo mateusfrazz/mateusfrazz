@@ -8,7 +8,7 @@
 
 
 
-- 🔭 Atualmente estou estudando **Responsividade em CSS**
+- 🔭 Atualmente estou estudando **Javascript**
 
 - 🌱 Desenvolvendo projetos em  **HTML e CSS**
 
