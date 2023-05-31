@@ -10,7 +10,7 @@
 
 - 🔭 Atualmente estou estudando **Javascript**
 
-- 🌱 Desenvolvendo projetos em  **HTML e CSS**
+- 🌱 Desenvolvendo projetos em  **HTML, CSS e javascrpt**
 
 - 📫 Contato  **mateusfrazao12345@gmail.com**
 
