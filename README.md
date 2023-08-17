@@ -8,7 +8,7 @@
 
 
 
-- 🔭 Atualmente estou estudando **Javascript e Bootstrap**
+- 🔭 Atualmente estou estudando **MySQL**
 
 - 🌱 Desenvolvendo projetos em  **HTML, CSS e javascrpt**
 
