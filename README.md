@@ -10,7 +10,7 @@
 
 - 🔭 Atualmente estou estudando **MySQL**
 
-- 🌱 Desenvolvendo projetos em  **HTML, CSS e javascrpt**
+- 🌱 Desenvolvendo projetos em  **HTML, CSS e javascrpt futuramente o Backend**
 
 - 📫 Contato  **mateusfrazao12345@gmail.com**
 
