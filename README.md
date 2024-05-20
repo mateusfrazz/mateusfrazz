@@ -40,33 +40,33 @@
 -->
 <!-- GIF -->
 <p align="left">
-  <img align="center" src="https://giffiles.alphacoders.com/209/209343.gif">
+  <img align="center" src="https://i.imgur.com/fpF5vSr.jpeg">
 </p>
 
 ## 🔥 Skills
 <!-- Skills: Programming Languages -->
   <div style="flex-basis: 48%;">
     <h3>Programming Languages</h3>
-    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Python" height="30" width="40" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-    <img align="center" alt="Python" height="30" width="40" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-    <img align="center" alt="Python" height="30" width="40" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-    
-   
+   <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,java,js,mysql,postgres,py" />
+  </a>
+</p>
   </div>
+
   
-  <!-- Skills: Tools & Frameworks -->
   <div style="flex-basis: 48%;">
-    <h3>Tools & Frameworks</h3>
-    <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-    <img align="center" alt="AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg">
-    <img align="center" alt="Botstrap" height="30" width="40" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-    <img align="center" alt="Chris-AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-    <img align="center" alt="Bash" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">
+  <h3>Tools & Frameworks </h3>
+    <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=sass,vscode,replit,linux,kali,idea,html,git,github,figma,css,bootstrap,aws" />
+  </a>
+</p>
   </div>
+
   
-  <!-- Skills: Libraries -->
+  <!-- Skills: Libraries 
+  //Mexer aqui quando tiver Libraries para adicionar 
   <div style="flex-basis: 48%;">
     <h3>Libraries</h3>
     <img align="center" alt="Numpy" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">
@@ -74,3 +74,4 @@
     <img align="center" alt="Seaborn" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
     <img align="center" alt="Scikit-learn" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
   </div>
+-->
