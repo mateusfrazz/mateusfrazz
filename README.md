@@ -10,7 +10,7 @@
 
   - 🌱 I’m currently studying analysis and systems development at Descomplica 
 
-  - 🔭 I am looking for my first job opportunity. My dream is to one day work with systems development and database .
+  - 🔭  My dream is to one day work with systems development and database .
 </p>
 
 <!-- Dropdown -->
