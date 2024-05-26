@@ -59,7 +59,7 @@
   <h3>Tools & Frameworks </h3>
     <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=sass,vscode,replit,linux,kali,idea,html,git,github,figma,css,bootstrap,aws" />
+    <img src="https://skillicons.dev/icons?i=sass,vscode,replit,linux,kali,idea,html,git,github,figma,css,bootstrap,aws,tailwind,eclipse" />
   </a>
 </p>
   </div>
