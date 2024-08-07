@@ -46,10 +46,12 @@
 - [C - Registration and query system](https://github.com/VariableBee/Cartorio)
 -->
 <!-- GIF -->
+ <details>
   <summary><h1 style="display: inline-block">Believe in the Process</h1></summary>
-<p align="left">
-  <img align="center" src="https://imgur.com/a/KbtkRWc"display: inline-block">Hello World</h1></summary>">
-</p>
+  <p align="left">
+    <img align="center" src="https://i.imgur.com/GcEdGbn.gif">
+  </p>
+</details>
 
 ## 🔥 Skills
 <!-- Skills: Programming Languages -->
