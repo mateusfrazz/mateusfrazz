@@ -48,7 +48,7 @@
 <!-- GIF -->
   <summary><h1 style="display: inline-block">Believe in the Process</h1></summary>
 <p align="left">
-  <img align="center" src="  <summary><h1 style="display: inline-block">Hello World</h1></summary>">
+  <img align="center" src="https://imgur.com/a/KbtkRWc"display: inline-block">Hello World</h1></summary>">
 </p>
 
 ## 🔥 Skills
