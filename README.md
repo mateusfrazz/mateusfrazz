@@ -58,9 +58,9 @@
 <!-- Skills: Programming Languages -->
   <div style="flex-basis: 48%;">
     <h3>Programming Languages</h3>
-   <p align="center">
+   <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=,java,js,mysql" />
+    <img src="https://skillicons.dev/icons?i=,java,ts,mysql,angular,nodejs" />
   </a>
 </p>
   </div>
@@ -68,9 +68,9 @@
   
   <div style="flex-basis: 48%;">
   <h3>Tools & Frameworks </h3>
-    <p align="center">
+    <p align="left">
   <a href="https://skillicons.dev">
-     <img src="https://skillicons.dev/icons?i=sass,css,html,bootstrap,tailwind,figma,aws,git,github,replit,vscode,linux,kali,idea,eclipse" />
+     <img src="https://skillicons.dev/icons?i=sass,bootstrap,tailwind,figma,git,github,replit,vscode,linux,postman,spring,npm,notion" />
   </a>
 </p>
   </div>
