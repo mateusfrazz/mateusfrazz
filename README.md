@@ -8,7 +8,6 @@
 - 💻 Foco em **Full-Stack Development** (Angular no Front-End e Java + Spring Boot no Back-End)  
 - 🗄️ Experiência com **SQL (PostgreSQL, MySQL)** e **APIs REST**  
 - 🚀 Objetivo: me desenvolver como **dev full stack** e criar soluções escaláveis e de impacto  
-- 🎥 Criador de conteúdo no **YouTube** desde 2018 (criatividade, comunicação, marketing e gestão de comunidade)  
 
 ---
 
