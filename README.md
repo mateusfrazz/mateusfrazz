@@ -60,7 +60,7 @@
     <h3>Programming Languages</h3>
    <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,java,js,mysql,postgres,py,lua" />
+    <img src="https://skillicons.dev/icons?i=,java,js,mysql" />
   </a>
 </p>
   </div>
