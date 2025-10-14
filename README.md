@@ -14,6 +14,7 @@
 
 ## 🏆 Destaques
 - 🚀 Projetos principais: [cartshop.io](https://github.com/mateusfrazz/cartshop.io) |
+-[foodorder](https://github.com/mateusfrazz/foodorder)
 - 👨‍💻 Open source e colaboração em repositórios públicos
 - 🥇 255+ contribuições no último ano
 
