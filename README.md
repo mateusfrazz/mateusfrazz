@@ -36,10 +36,9 @@
 ---
 
 ## 🌟 Projetos em destaque
-- `cartshop.io`: E-commerce com Angular e backend Spring Boot. Deploy automatizado.
-- `ng-video-game-db`: Visualização e busca de jogos via API externa.
-- `movieApp`: Catálogo de filmes, integração com REST e design clean.
-- `netflix-clone`: Plataforma de streaming com autenticação e simulação de recomendações.
+- `cartshop.io`: E-commerce com Angular e Json-Server. Deploy automatizado.
+- `Foodorder`: Restaurante con angular e Json-Server baseado no site do ifood com busca de produtos.
+
 
 ---
 
