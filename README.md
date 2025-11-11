@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Mateus!</h1>
-<h3 align="center">💻 Full-Stack Developer | Angular & Java Enthusiast</h3>
+<h3 align="center">💻 Full-Stack Developer | Angular & Java </h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/mateus-frazão-607b35174/" target="_blank">
