@@ -15,7 +15,6 @@
 ## 🏆 Destaques
 - 🚀 Projetos principais: [cartshop.io](https://github.com/mateusfrazz/cartshop.io) | [foodorder](https://github.com/mateusfrazz/foodorder)
 - 👨‍💻 Open source e colaboração em repositórios públicos
-- 🥇 255+ contribuições no último ano
 
 ---
 
@@ -48,7 +47,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mateusfrazz&show_icons=true&theme=radical" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusfrazz&layout=compact&theme=radical" />
 </p>
-
+<img src="https://pacman.abozanona.me?username=mateusfrazz"/>
 ---
 
 ## ✨ Quotes  
